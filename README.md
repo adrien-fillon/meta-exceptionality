@@ -6,7 +6,6 @@ This repository is an example repo to test out the [`holepunch`](https://github.
   [![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/karthik/binder-test/master?urlpath=rstudio)
   <!-- badges: end -->
   
-  
 
 To test `holepunch`, follow these steps:
 
