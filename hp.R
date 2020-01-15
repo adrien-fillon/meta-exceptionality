@@ -1,5 +1,6 @@
 
-library(holepunch)
+# Hole Punch
+
 write_compendium_description(package = "meta exceptionality", 
                              description = "meta analysis on exceptionality")
 # to write a description, with dependencies listed 
@@ -21,4 +22,4 @@ generate_badge()
 build_binder()
 # 🤞🚀
 
-Now, run through analysis.R till you get to a plot
+#Now, run through analysis.R till you get to a plot
